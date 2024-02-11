@@ -237,9 +237,19 @@ Generally, the MITRE ATT&CK framework is a community-driven security framework w
 
 ## Red Team Steps
 
-https://xmind.app/m/9Zcnkq
+`https://xmind.app/m/9Zcnkq
+`
+
+<div dir="center" markdown="1">
+<details markdown="1"> <summary><h3>Red Team Steps Image</h3></summary>
+
+![redteamsteps](https://github.com/soheilsec/Red-Team-Roadmap/assets/46918547/dd5e2900-e2a4-447b-95da-bc028e887ef6)
+
+</details>
+</div>
 
 ## Red Team salaries
+
 **Red Team Operator:**
 
 >     Junior: $60,000 - $90,000 per year
@@ -248,21 +258,21 @@ https://xmind.app/m/9Zcnkq
 
 **Red Team Engineer:**
 
-> Junior: $70,000 - $100,000 per year 
-> Mid-level: $100,000 - $130,000 per
-> year Senior: $130,000 - $160,000+ per year
+>    Junior: $70,000 - $100,000 per year 
+>    Mid-level: $100,000 - $130,000 per
+>    year Senior: $130,000 - $160,000+ per year
 
 **Red Team Lead:**
 
-  Mid-level: $120,000 - $150,000 per year
-  Senior: $150,000 - $200,000+ per year
+>    Mid-level: $120,000 - $150,000 per year
+>    Senior: $150,000 - $200,000+ per year
 
 **Red Team Consultant:**
 
-  Junior: $70,000 - $100,000 per year
-  Mid-level: $100,000 - $130,000 per year
-  Senior: $130,000 - $160,000+ per year
+>     Junior: $70,000 - $100,000 per year
+>     Mid-level: $100,000 - $130,000 per year
+>     Senior: $130,000 - $160,000+ per year
 
 ## Red Team Interview questions ( Persian )
 
-  https://github.com/soheilsec/RedTeam-Interview
+#  https://github.com/soheilsec/RedTeam-Interview
