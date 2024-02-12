@@ -9,7 +9,9 @@ Penetration testing itself is not red teaming; rather, it's one of the penetrati
 ## 3. Where is Red Teaming Used?
 
 Offensive Security Maturity Model
+
 ![readteam00013](https://github.com/soheilsec/Red-Team-Roadmap/assets/46918547/f2050f1d-40f7-4724-9c15-30fc823bef83 "Cymulate offensive security matuirty model")
+
 Organizations have various levels of offensive security maturity. Vulnerability scanning and vulnerability assessment are performed across all organizations. Depending on the size of the organizations, they either have an in-house penetration testing department, outsource this function, or even utilize bug bounty programs. Organizations with blue teams use internal or external red teaming to assess team performance and discover security gaps. Purple team exercises serve as a method to establish balance and aid in increasing the efficiency of red and blue teams to achieve higher detection rates and reduce false positives. Simulating APT groups to assess the performance of defensive teams is highly practical.
 
 ## 4. Steps for an Internal Red Team in an Organization:
