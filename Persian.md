@@ -232,7 +232,7 @@ Offensive Security maturity model \
 **14.Impact:** \
 •	Skills: Understanding of destructive techniques (e.g., ransomware), data manipulation. \
 •	Knowledge: File system structures, database internals. \
-•	Tools: pseudo ransomware, [slowloris](https://github.com/gkbrk/slowloris), [LOIC](https://github.com/NewEraCracker/LOIC) \
+•	Tools: pseudo ransomware, [slowloris](https://github.com/gkbrk/slowloris), [LOIC](https://github.com/NewEraCracker/LOIC)
 
 # 11.شبیه سازهای TTP مایتراتک
 دو از ابزارهای متن باز که در شبیه سازی تاکتیک تکنیک و روشها به بسیار کاربردی هستند: <br>
