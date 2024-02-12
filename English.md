@@ -122,30 +122,29 @@ As a newcomer to this field, you need to acquire the following knowledge to ente
 •	Ability to present, write reports, hold meetings, and manage sessions. \
 
 ## 9. Red team frameworks
-[TIBER-EU](https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html) (**Threat Intelligence-based Ethical Red Teaming for the European Union**):
+[TIBER-EU](https://www.ecb.europa.eu/paym/cyber-resilience/tiber-eu/html/index.en.html) (**Threat Intelligence-based Ethical Red Teaming for the European Union**): \
 •	Developed by the European Central Bank (ECB), TIBER-EU aims to enhance cyber resilience within the European Union's financial sector. \
 •	It focuses on conducting controlled red team exercises informed by threat intelligence to identify and address cybersecurity weaknesses. \
 •	TIBER-EU emphasizes collaboration, standardized methodologies, and scenario-based testing to improve cybersecurity posture.
 
 [UK’s CBEST](https://www.crest-approved.org/membership/cbest/) (**UK's CBEST**)
 
-[Hongkong’s iCAST](https://www.pwccn.com/en/risk-assurance/cyber-services/icast/icast-cyber-attack-simulation-hk.pdf) (**Intelligence-led Cyber Attack Simulation Testing**):
-
+[Hongkong’s iCAST](https://www.pwccn.com/en/risk-assurance/cyber-services/icast/icast-cyber-attack-simulation-hk.pdf) (**Intelligence-led Cyber Attack Simulation Testing**): \
 •	iCAST (Intelligence-led Cyber Attack Simulation Testing) is a framework developed by the Hong Kong Monetary Authority (HKMA) for assessing and enhancing cybersecurity resilience in the financial sector of Hong Kong. \
 •	It employs an intelligence-led approach, incorporating threat intelligence to simulate realistic cyber attack scenarios. \
 •	iCAST emphasizes scenario-based testing, collaboration among stakeholders, and provides detailed reports for participating institutions to prioritize remediation efforts and improve their cybersecurity posture.
 
-[Saudi Arabia’s FEER](http://www.sama.gov.sa/en-US/Laws/BankingRules/Financial%20Entities%20Ethical%20Red%20Teaming%20Framework.pdf) (**Financial Entities Ethical Red Teaming**):
+[Saudi Arabia’s FEER](http://www.sama.gov.sa/en-US/Laws/BankingRules/Financial%20Entities%20Ethical%20Red%20Teaming%20Framework.pdf) (**Financial Entities Ethical Red Teaming**): \
 •	Saudi Arabia's FEER (Financial Entities Ethical Red Teaming) framework is designed to enhance cybersecurity resilience specifically within the financial sector of Saudi Arabia. \
 •	It employs ethical red teaming methodologies to simulate cyber attacks and assess the effectiveness of cybersecurity defenses in financial institutions. \
 •	FEER promotes collaboration among financial entities, regulatory authorities, and stakeholders, and encourages continuous improvement of cybersecurity defenses based on insights gained from red team exercises.
 
-[Singapore’s AASE](https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exercises-guidelines-v1-06766a69f299c69658b7dff00006ed795.pdf) (**Adversarial Attack Simulation Exercises**):
+[Singapore’s AASE](https://abs.org.sg/docs/library/abs-red-team-adversarial-attack-simulation-exercises-guidelines-v1-06766a69f299c69658b7dff00006ed795.pdf) (**Adversarial Attack Simulation Exercises**): \
 •	Singapore’s AASE (Adversarial Attack Simulation Exercises) framework employs simulation-based approaches to assess cybersecurity readiness by mimicking real-world cyber attacks. \
 •	AASE fosters cross-sector collaboration among government agencies, critical infrastructure operators, and private enterprises to ensure comprehensive coverage and sharing of insights. \
 •	The framework emphasizes continuous improvement by providing actionable recommendations based on exercise outcomes to enhance cybersecurity resilience over time.
 
-**NATO’s framework**
+**NATO’s framework** \
 •	NATO's red team framework is tailored for military and defense operations, focusing on enhancing operational planning, decision-making, and preparedness. \
 •	It conducts strategic assessments by analyzing military plans and exercises, employing diverse expertise to challenge assumptions and uncover vulnerabilities. \
 •	The framework aims to improve operational effectiveness by generating insights from simulated adversarial engagements, facilitating learning, adaptation, and refinement of military strategies and tactics.
@@ -220,12 +219,7 @@ As a newcomer to this field, you need to acquire the following knowledge to ente
 
 ## 11. Two open-source tools that are very useful for simulating tactics, techniques, and procedures (TTPs) in the context of MITRE ATT&CK are:
 Atomic Red Team: A library of simple, automatable tests that exercise the ATT&CK matrix. These tests are designed to validate detection capabilities of security solutions. Atomic Red Team tests can be executed with minimal dependencies and are compatible with most platforms. \
-Caldera: An automated adversary emulation system that performs post-compromise adversarial behavior within a Windows enterprise network. It generates an intrusion kill chain and produces artifacts that allow defenders to evaluate their security operations' capabilities to detect, respond to, and remediate the actions of an adversary. پ
-# Commercial tools:
-
-  Cobalt strike \
-  Cymulate \
-  Brute ratel \
+Caldera: An automated adversary emulation system that performs post-compromise adversarial behavior within a Windows enterprise network. It generates an intrusion kill chain and produces artifacts that allow defenders to evaluate their security operations' capabilities to detect, respond to, and remediate the actions of an adversary. \
   [C2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?pli=1#gid=0)
 
 ## 12.Does the MITRE ATT&CK framework provide complete coverage?
