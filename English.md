@@ -234,7 +234,7 @@ Generally, the MITRE ATT&CK framework is a community-driven security framework w
 
 ## 13.Red Team Steps
 
-`https://xmind.app/m/9Zcnkq
+`[https://xmind.app/m/9Zcnkq](https://github.com/soheilsec/Red-Team-Roadmap/blob/main/Red%20Team%20Roadmap%20%5Bv1%5D.xmind)
 `
 
 <div dir="center" markdown="1">
