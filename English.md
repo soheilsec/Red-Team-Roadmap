@@ -1,6 +1,6 @@
-**1. What is Red Teaming?**
-From a historical perspective, red teaming originated from exercises conducted by the US military during the Cold War, with the Soviet Army representing the Red Team and the US Army representing the Blue Team. However, in the realm of cybersecurity, red teaming refers to simulating hostile or adversarial attacks. Generally, if you aim to work as a red teamer, you'll be assigned various tasks depending on the job role, requiring skills across different domains. For example: Finding and enhancing the execution chain of malware for Blue Team evaluation,
-such as the following chain: URL > ZIP > JS > cURL > .dll Discovering new and diverse methods to bypass security mechanisms nlike application whitelisting, UAC bypass, AV evasion, EDR evasion, etc.
+## 1. What is Red Teaming?
+<div align="justify">From a historical perspective, red teaming originated from exercises conducted by the US military during the Cold War, with the Soviet Army representing the Red Team and the US Army representing the Blue Team. However, in the realm of cybersecurity, red teaming refers to simulating hostile or adversarial attacks. Generally, if you aim to work as a red teamer, you'll be assigned various tasks depending on the job role, requiring skills across different domains. For example: Finding and enhancing the execution chain of malware for Blue Team evaluation,
+such as the following chain: URL > ZIP > JS > cURL > .dll Discovering new and diverse methods to bypass security mechanisms nlike application whitelisting, UAC bypass, AV evasion, EDR evasion, etc.</div> 
 
 ## 2. What Red Teaming is Not?
 
@@ -12,7 +12,7 @@ Offensive Security Maturity Model
 
 ![readteam00013](https://github.com/soheilsec/Red-Team-Roadmap/assets/46918547/f2050f1d-40f7-4724-9c15-30fc823bef83 "Cymulate offensive security matuirty model")
 
-Organizations have various levels of offensive security maturity. Vulnerability scanning and vulnerability assessment are performed across all organizations. Depending on the size of the organizations, they either have an in-house penetration testing department, outsource this function, or even utilize bug bounty programs. Organizations with blue teams use internal or external red teaming to assess team performance and discover security gaps. Purple team exercises serve as a method to establish balance and aid in increasing the efficiency of red and blue teams to achieve higher detection rates and reduce false positives. Simulating APT groups to assess the performance of defensive teams is highly practical.
+<div align="justify">Organizations have various levels of offensive security maturity. Vulnerability scanning and vulnerability assessment are performed across all organizations. Depending on the size of the organizations, they either have an in-house penetration testing department, outsource this function, or even utilize bug bounty programs. Organizations with blue teams use internal or external red teaming to assess team performance and discover security gaps. Purple team exercises serve as a method to establish balance and aid in increasing the efficiency of red and blue teams to achieve higher detection rates and reduce false positives. Simulating APT groups to assess the performance of defensive teams is highly practical.</div> 
 
 ## 4. Steps for an Internal Red Team in an Organization:
 
@@ -126,7 +126,7 @@ As a newcomer to this field, you need to acquire the following knowledge to ente
 •	It focuses on conducting controlled red team exercises informed by threat intelligence to identify and address cybersecurity weaknesses. \
 •	TIBER-EU emphasizes collaboration, standardized methodologies, and scenario-based testing to improve cybersecurity posture.
 
-[UK’s CBEST](https://www.crest-approved.org/membership/cbest/) (**UK's CBEST**):
+[UK’s CBEST](https://www.crest-approved.org/membership/cbest/) (**UK's CBEST**)
 
 [Hongkong’s iCAST](https://www.pwccn.com/en/risk-assurance/cyber-services/icast/icast-cyber-attack-simulation-hk.pdf) (**Intelligence-led Cyber Attack Simulation Testing**):
 
@@ -248,21 +248,35 @@ Generally, the MITRE ATT&CK framework is a community-driven security framework w
 
 ## Red Team salaries
 
-**Red Team Operator:**
-
 [**Red Team Operator**](https://www.linkedin.com/jobs/search/?currentJobId=3521239439&geoId=103644278&keywords=red%20team%20operator&location=United%20States&origin=JOBS_HOME_SEARCH_BUTTON&refresh=true)
 
-**Red Team Engineer:**
+(**Based on the job advertisement on LinkedIn**):
+
+>    Junior: $60,000 - $90,000 \
+>    Mid-level: $90,000 - $120,000 \
+>    Senior: $120,000 - $150,000+
+
 
 [**Red Team Engineer**](https://www.linkedin.com/jobs/search/?currentJobId=3826859320&geoId=103644278&keywords=red%20team%20engineer&location=United%20States&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true)
 
-**Red Team Lead:**
+(**Based on the job advertisement on LinkedIn**):
+
+>    Junior: $70,000 - $100,000 \
+>    Mid-level: $100,000 - $130,000 \
+>    Senior: $130,000 - $160,000+
+
 
 [**Red Team Lead**](https://www.linkedin.com/jobs/search/?currentJobId=3827197332&geoId=103644278&keywords=red%20team%20lead&location=United%20States&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true) 
 
-**Red Team Consultant:**
+>    Mid-level: $120,000 - $150,000 \
+>    Senior: $150,000 - $200,000+
+
 
 [**Red Team Consultant**](https://www.linkedin.com/jobs/search/?currentJobId=3822230937&geoId=103644278&keywords=red%20team%20consultant&location=United%20States&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true)
+
+>    Junior: $70,000 - $100,000 \
+>    Mid-level: $100,000 - $130,000 \
+>    Senior: $130,000 - $160,000+
 
 ## Red Team Interview questions ( Persian )
 
