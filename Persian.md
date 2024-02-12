@@ -48,7 +48,7 @@ url > zip > js > curl > .dll
 
 # 3.ردتیم کجاها مورد استفاده قرار می‌گیرد
 
->     Offensive Security maturity model
+#     Offensive Security maturity model
 ![ReadTeam](https://github.com/soheilsec/Red-Team-Roadmap/assets/46918547/13ed8b06-6893-4f7d-bbca-9a4657d6db2d)
 
 سازمان ها دارای بلوغ امنیت تهاجمی مختلفی می‌باشند.در تمام سازمان Vulnerability scanning و Vulnerability Assessment انجام می‌شود.با توجه به بزرگی سازمان‌ها بخش تست نفوذ را دارند یا این بخش را به بیرون out source می کنند یا حتی از برنامه‌های باگ بانتی استفاده می‌کنند.سازمان‌هایی که بلوتیم دارند برای ارزیابی عملکرد این تیم و کشف گپ‌های امنیتی از ردتیم داخلی یا خارجی استفاده می‌کنند.تمرین‌های پرپل تیم یکی از روش برقراری تعادل و کمک به افزایش بهره وری ردتیم و بلوتیم می‌باشد تا به هدف میزان شناسایی را افزایش و false positive را کاهش دست پیدا کنند.شبیه سازی گروه‌های APT در جهت ارزیابی عملکرد تیم های دفاعی بسیار کاربردی می‌باشد.
@@ -148,17 +148,17 @@ url > zip > js > curl > .dll
 
 به عنوان یک شخص تازه وارد در این حوزه شما باید دانش های زیر را کسب کنید تا وارد محل کار شوید:
 
-1.  دانش ابتدایی روی امنیت سایبری : شبکه، سیستم عامل‌ها(ویندوز،لینوکس و مک).
+1.  دانش ابتدایی روی امنیت سایبری : شبکه، سیستم عامل‌ها(ویندوز،لینوکس و مک). 
 2.  تست نفوذ دانش مفاهیم اصلی و کار با ابزارها و توانایی انجام تست نفوذ بر اساس فریمورک مطرح مثل owasp که به صورت کلی 7 مرحله دارد . information gathering, vul scanning, exploiting, maintain access , privilege escalation, post exploitation, reporting
 3.  دانش اتومات سازی یا ساخت ابزار خاص منظوره برای بخشی از پروژه که حداقل نیاز دارید یک زبان برنامه نویسی یا اسکریپت نویسی بلد باشید ( python, powershell, bash,… )
 4.  دانش بر کشف آسیب پذیری‌های شناخته شده روی برنامه ها و شبکه شما باید به مرور سعی کنید به مهارت بیشتری دست پیدا کنید به عنوان مثال یک ردتیمر سنیور مهارت‌های زیر را دارد:
-5.  تسلط به Windows Internals, Linux Internals, Mac os Internals
+5.  تسلط به اینترنالز سیستم عامل ویندوز لینوکس و مک [abolfazl kazemi-WI](https://www.youtube.com/watch?v=mNdRws8Es6c&list=PLT6Nm6pz_em6Tyz6J1YK2T7lTCjn2ow7T),[mohammad reza ramezani-WI](https://www.youtube.com/playlist?list=PLV_646g8Ljh79PoaG7uWN-E-TK6INzeX8),[parsa sarrafian-WI](https://www.aparat.com/v/fqwoh?playlist=7606300),[abolfazl kazemi-LI](https://mega.nz/folder/U3E1XThA#I8QoMr74favg2xPcmQNrVw) 
 6.  مسلط به تاکتیک‌های مایتراتک و توانایی شبیه سازی تکنیک‌های جدید APT گروه‌ها
 7.  توانایی توسعه ابزارهایی در جهت پیاده‌سازی تکنیک‌های APT گروه‌ها مثل C2
 8.  آشنایی با معماری شبکه‌های پیچیده نحوه کار کرد IDS/IPS, SIEM, EDR,XDR, honeypot, deception& decoy, AV, WAF, firewall
 9.  تسلط بر روی مایتراتک و توانایی برنامه ریزی برای شبیه سازی تکنیکها
 10.  توانایی شناخت بیزینس و ارایه تحلیل ریسک‌ها موجود در بیزینس
-11.  توانایی توسعه فردی و یادگیری به صورت دائمی و آپدیت کردن خودش
+11.  توانایی توسعه فردی و یادگیری به صورت دائمی و آپدیت کردن خودش [Free Resources](https://www.youtube.com/watch?v=tv1YUPDYZgY)
 12.  توانایی تحلیل اکسپلویت‌ها و بدافزارهایی که گروه‌های APT از آن‌ها استفاده کردند و قابلیت ارائه گزارش مبنی بر اینکه نحوه کارکرد بدافزار واکسپلویت چیز از چه آسیب پذیری استفاده می‌کند و هدف اصلی آن ها چیست
 13.  توانایی در ارزیابی محصولات کنترلی مثل application whitelisting, AV, EDR در جهت FUD کردن تا لاگی از این تجهیزات نباشد و ارزیابی کند از حرکات بعدی یا artifact های موجود در سیستم یا شبکه تیم آبی توانایی شناسایی آن را دارند یا نه
 14.  توانایی مدیریت و منتور بودن نیروهای تازه‌کار و کمک در پروژه‌های مختلف حل مشکلات
@@ -219,7 +219,7 @@ url > zip > js > curl > .dll
 • Skills: OSINT techniques, network scanning, footprinting.  
 • Knowledge: Information gathering methodologies, threat intelligence.  
 • Tools: [Maltego](https://www.maltego.com/), [theHarvester](https://github.com/laramies/theHarvester), [Shodan](https://www.shodan.io/), [Amass](https://github.com/owasp-amass/amass), [Sn1per](https://github.com/1N3/Sn1per), [Recon-ng](https://github.com/lanmaster53/recon-ng), [Nikto](https://github.com/sullo/nikto), [spiderfoot](https://github.com/smicallef/spiderfoot), [Gobuster](https://github.com/OJ/gobuster)  
-• References:["Open Source Intelligence Techniques" by Michael Bazzell](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/1530508908). 
+• References:["Open Source Intelligence Techniques" by Michael Bazzell](https://www.amazon.com/Open-Source-Intelligence-Techniques-Information/dp/1530508908). [Recon-Persian](https://www.youtube.com/watch?v=Y4jNeHnHk14&list=PLwq8--jsXOEkeOErfcjngfgn-Wf_0ewM4&index=2&t=22s&pp=gAQBiAQB)
 
 ---
  
@@ -227,7 +227,8 @@ url > zip > js > curl > .dll
 • Skills: Exploit development, scripting, programming.  
 • Knowledge: Software vulnerabilities, programming languages (e.g., Python, C/C++).  
 • Tools: [Immunity Debugger](https://www.immunityinc.com/products/debugger/), [IDA Pro](https://hex-rays.com/ida-pro/), [Msfvenom](https://docs.metasploit.com/docs/using-metasploit/basics/how-to-use-msfvenom.html), [GDB](https://www.sourceware.org/gdb/), [chimera](https://github.com/tokyoneon/Chimera), [shellter](https://www.shellterproject.com/), [offensive VBA](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)  
-• References: ["Hacking: The Art of Exploitation" by Jon Erickson](https://github.com/soheilsec/Red-Team-Roadmap/blob/main), ["Gray Hat Python" by Justin Seitz](https://github.com/soheilsec/Red-Team-Roadmap/blob/main)  
+• References: ["Hacking: The Art of Exploitation" by Jon Erickson](https://github.com/soheilsec/Red-Team-Roadmap/blob/main), ["Gray Hat Python" by Justin Seitz](https://github.com/soheilsec/Red-Team-Roadmap/blob/main),[Resource Development - Persian](https://www.youtube.com/watch?v=hRpGMZr-fMY&list=PLwq8--jsXOEkeOErfcjngfgn-Wf_0ewM4&index=3&t=92s&pp=gAQBiAQB
+)
 
 ---
 
@@ -235,7 +236,8 @@ url > zip > js > curl > .dll
 • Skills: Understanding of common attack vectors (e.g., phishing, exploitation), reconnaissance techniques.  
 • Knowledge: Network architecture, common vulnerabilities, and exposures (CVEs).  
 • Tools: [Metasploit](https://www.metasploit.com), [Cobalt Strike](https://www.cobaltstrike.com/), [SET (Social Engineering Toolkit)](https://github.com/trustedsec/social-engineer-toolkit), [Aircrack-ng](https://github.com/aircrack-ng/aircrack-ng), [Luckystrike](https://github.com/curi0usJack/luckystrike), [Wifi-pumpkin](https://github.com/zackhaikal/WiFi-Pumpkin), [gophish](https://github.com/gophish/gophish), [sqlmap](https://github.com/sqlmapproject/sqlmap), [bash bunny](https://shop.hak5.org/products/bash-bunny), [evilginx2](https://github.com/kgretzky/evilginx2)  
-• References: ["The Hacker Playbook 3" by Peter Kim](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759), ["Metasploit: The Penetration Tester's Guide" by David Kennedy et al.](https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X)  
+• References: ["The Hacker Playbook 3" by Peter Kim](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1980901759), ["Metasploit: The Penetration Tester's Guide" by David Kennedy et al.](https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X),[Initial Access-Persian](https://www.youtube.com/watch?v=Oeu3ktAtYjY&list=PLwq8--jsXOEkeOErfcjngfgn-Wf_0ewM4&index=4&t=21s&pp=gAQBiAQB
+)
 
 ---
 
@@ -243,7 +245,8 @@ url > zip > js > curl > .dll
 • Skills: Ability to execute payloads, shell scripting, understanding of command execution techniques.  
 • Knowledge: Operating system internals, scripting languages (e.g., PowerShell, Python).  
 • Tools: [PowerShell Empire](https://github.com/EmpireProject/Empire), [Metasploit](https://www.metasploit.com), [Cobalt Strike](https://www.cobaltstrike.com/), [macro_pack](https://github.com/sevagas/macro_pack), [donut](https://github.com/TheWover/donut), [Unicorn](https://github.com/trustedsec/unicorn), [responder](https://github.com/SpiderLabs/Responder), [evil-winrm](https://github.com/Hackplayers/evil-winrm), [powersploit](https://github.com/PowerShellMafia/PowerSploit), [Rubeus](https://github.com/GhostPack/Rubeus), [sqlrecon](https://github.com/skahwah/SQLRecon)  
-• References: ["PowerShell for Pentesters" by Nikhil Mittal](https://ine.com/learning/courses/powershell-for-pentesters), ["Violent Python" by TJ O'Connor.](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)  
+• References: ["PowerShell for Pentesters" by Nikhil Mittal](https://ine.com/learning/courses/powershell-for-pentesters), ["Violent Python" by TJ O'Connor.](https://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579),[Execution](https://www.youtube.com/watch?v=ixKnlZdQAjU&list=PLwq8--jsXOEkeOErfcjngfgn-Wf_0ewM4&index=5&t=3s&pp=gAQBiAQB
+)  
 
 ---
 
@@ -251,7 +254,8 @@ url > zip > js > curl > .dll
 • Skills: Familiarity with persistence mechanisms (e.g., registry keys, scheduled tasks), privilege escalation techniques.  
 • Knowledge: Windows Registry, Group Policy Objects (GPOs), file system permissions.  
 • Tools: [Covenant](https://github.com/cobbr/Covenant), [Metasploit](https://www.metasploit.com), [Empire](https://github.com/BC-SECURITY/Empire), [impacket](https://github.com/fortra/impacket), [sharpersist](https://github.com/mandiant/SharPersist), [pwncat](https://github.com/calebstewart/pwncat)  
-• References: ["Windows Internals" by Pavel Yosifovich et al.](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189)  
+• References: ["Windows Internals" by Pavel Yosifovich et al.](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189), [Persistence-Persian](https://www.youtube.com/watch?v=XqHmjlYEsMw&list=PLwq8--jsXOEkeOErfcjngfgn-Wf_0ewM4&index=6&t=8s&pp=gAQBiAQB
+)  
 
 ---
 
@@ -324,7 +328,7 @@ url > zip > js > curl > .dll
 دو از ابزارهای متن باز که در شبیه سازی تاکتیک تکنیک و روشها به بسیار کاربردی هستند:
 
 > Caldera, atomic red team
-
+[Emulation & Simulation APT](https://www.youtube.com/playlist?list=PLwq8--jsXOEkhbmV0Dd_wupwSFHPYF3rO)
 همچنین ابزارهای تجاری مثل
 
 - Cobalt strike
