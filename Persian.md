@@ -256,6 +256,7 @@ Brute ratel <br>
  
 # 14.بازار کار ردتیم متوسط حقوق پوزیشن ردتیم در خارج از ایران
 با توجه به اینکه تو ایران هیچ آمار دقیقی از حقوق‌ها نیست. صرفا حقوق‌های ردتیم در آمریکا قرار داده شده است.
+
 [**Red Team Operator**](https://www.linkedin.com/jobs/search/?currentJobId=3521239439&geoId=103644278&keywords=red%20team%20operator&location=United%20States&origin=JOBS_HOME_SEARCH_BUTTON&refresh=true)
 
 (**Based on the job advertisement on LinkedIn**):
@@ -286,6 +287,6 @@ Brute ratel <br>
 >    Mid-level: $100,000 - $130,000 \
 >    Senior: $130,000 - $160,000+
 
-15.	نمونه سوالات ردتیم
+# 15.نمونه سوالات ردتیم
 [RedTeam Interview](https://github.com/soheilsec/RedTeam-Interview)
 
