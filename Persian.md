@@ -235,12 +235,12 @@ Offensive Security maturity model \
 •	Tools: pseudo ransomware, [slowloris](https://github.com/gkbrk/slowloris), [LOIC](https://github.com/NewEraCracker/LOIC) \
 
 # 11.شبیه سازهای TTP مایتراتک
-دو از ابزارهای متن باز که در شبیه سازی تاکتیک تکنیک و روشها به بسیار کاربردی هستند: /
-Caldera, atomic red team /
-همچنین ابزارهای تجاری مثل  /
-Cobalt strike /
-Cymulate /
-Brute ratel /
+دو از ابزارهای متن باز که در شبیه سازی تاکتیک تکنیک و روشها به بسیار کاربردی هستند: <br>
+Caldera, atomic red team <br>
+همچنین ابزارهای تجاری مثل  <br>
+Cobalt strike <br>
+Cymulate <br>
+Brute ratel <br>
 و...
 # [c2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?pli=1#gid=0)
 
@@ -251,7 +251,8 @@ Brute ratel /
 گزارش‌های هوش تهدید، مقالات محققین امنیتی، گزارش‌های IR که پس هک سازمان‌ها منتشر می شود، بلاگ‌ها و تویتتر محقیقن امنیتی می تواند منابعی برای افزایش گستره پوشش TTP باشد.
 
 # 13.گام های کلی که برای کار در فیلد ردتیم باید طی شود:
-https://xmind.app/m/9Zcnkq
+
+# [Mind V1](https://github.com/soheilsec/Red-Team-Roadmap/blob/main/Red%20Team%20Roadmap%20%5Bv1%5D.xmind)
  
 # 14.بازار کار ردتیم متوسط حقوق پوزیشن ردتیم در خارج از ایران
 با توجه به اینکه تو ایران هیچ آمار دقیقی از حقوق‌ها نیست. صرفا حقوق‌های ردتیم در آمریکا قرار داده شده است.
@@ -286,5 +287,5 @@ https://xmind.app/m/9Zcnkq
 >    Senior: $130,000 - $160,000+
 
 15.	نمونه سوالات ردتیم
-https://github.com/soheilsec/RedTeam-Interview
+[RedTeam Interview](https://github.com/soheilsec/RedTeam-Interview)
 
