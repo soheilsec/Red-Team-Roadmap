@@ -360,6 +360,7 @@ url > zip > js > curl > .dll
 
 # 14.بازار کار ردتیم متوسط حقوق پوزیشن ردتیم در خارج از ایران
 
+
 با توجه به اینکه تو ایران هیچ آمار دقیقی از حقوق‌ها نیست. صرفا حقوق‌های ردتیم در آمریکا قرار داده شده است.
 
 [**Red Team Operator**](https://www.linkedin.com/jobs/search/?currentJobId=3521239439&geoId=103644278&keywords=red%20team%20operator&location=United%20States&origin=JOBS_HOME_SEARCH_BUTTON&refresh=true)
@@ -370,10 +371,12 @@ url > zip > js > curl > .dll
 > Mid-level: $90,000 - $120,000  
 > Senior: $120,000 - $150,000+
 
+
 [**Red Team Engineer**](https://www.linkedin.com/jobs/search/?currentJobId=3826859320&geoId=103644278&keywords=red%20team%20engineer&location=United%20States&origin=JOB_SEARCH_PAGE_SEARCH_BUTTON&refresh=true)
 
 (**Based on the job advertisement on LinkedIn**):
 
+<
 > Junior: $70,000 - $100,000  
 > Mid-level: $100,000 - $130,000  
 > Senior: $130,000 - $160,000+
@@ -388,7 +391,5 @@ url > zip > js > curl > .dll
 > Junior: $70,000 - $100,000  
 > Mid-level: $100,000 - $130,000  
 > Senior: $130,000 - $160,000+
-
-# 15.نمونه سوالات ردتیم
 
 [RedTeam Interview](https://github.com/soheilsec/RedTeam-Interview)
