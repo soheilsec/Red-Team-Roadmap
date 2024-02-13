@@ -6,7 +6,7 @@
 
 
 ***
-### فهرست مطالب
+### Table of contents
 
 - [What is Red Teaming](#item-I)
 - [What Red Teaming is Not?](#item-II)
