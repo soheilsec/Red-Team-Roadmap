@@ -385,4 +385,7 @@ url > zip > js > curl > .dll
 > Mid-level: $100,000 - $130,000  
 > Senior: $130,000 - $160,000+
 
+# 15.نمونه سوالات ردتیم
+
+[RedTeam Interview](https://github.com/soheilsec/RedTeam-Interview)
 
