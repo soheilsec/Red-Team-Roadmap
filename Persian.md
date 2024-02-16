@@ -22,19 +22,20 @@
 - [ردتیم کجاها مورد استفاده قرار می‌گیرد](#item-III)
 - [گام‌هایی که یک ردتیم داخلی در سازمان باید طی کند](#item-IV)
 - [انواع موقعیت‌های شغلی ردتیم و مهارتهای لازم برای هر سطح از موقعیت‌های شغلی](#item-V)
-- - [اپراتور ردتیم Red Team operator](#item-V.I)
-- -  [رد تیم لید Red Team lead](#item-V.II)
-- -  [مشاور ردتیم Red Team Consultant](#item-V.III)
-- [تفاوت ردتیم داخلی و خارجی](#item-VI)
-- [چگونه یک ردتیمر بشوم؟](#item-VII)
-- [کلیه مهارت های فیلد ردتیم](#item-VIII)
-- [فریمورک‌های مطرح ردتیم](#item-IX)
-- [بر اساس مایتراتک برای شبیه سازی هر تاکتیک چه مهارت‌هایی لازم است](#item-X)
-- [شبیه سازهای TTP مایتراتک ](#item-XI)
-- [آیا فریمورک مایتراتک پوشش کامل می‌دهد ؟](#item-XII)
-- [گام های کلی که برای کار در فیلد ردتیم باید طی شود](#item-XIII)
-- [بازار کار ردتیم متوسط حقوق پوزیشن ردتیم در خارج از ایران](#item-XIV)
-- [نمونه سوالات ردتیم](#item-XV)
+- [اپراتور ردتیم Red Team operator](#item-VI)
+- [مهندس ردتیم Red Team Engineer](#item-VII)
+- [رد تیم لید Red Team lead](#item-VIII)
+- [مشاور ردتیم Red Team Consultant](#item-IX)
+- [تفاوت ردتیم داخلی و خارجی](#item-X)
+- [چگونه یک ردتیمر بشوم؟](#item-XI)
+- [کلیه مهارت های فیلد ردتیم](#item-XII)
+- [فریمورک‌های مطرح ردتیم](#item-XIII)
+- [بر اساس مایتراتک برای شبیه سازی هر تاکتیک چه مهارت‌هایی لازم است](#item-XIV)
+- [شبیه سازهای TTP مایتراتک ](#item-XV)
+- [آیا فریمورک مایتراتک پوشش کامل می‌دهد ؟](#item-XVI)
+- [گام های کلی که برای کار در فیلد ردتیم باید طی شود](#item-XVII)
+- [بازار کار ردتیم متوسط حقوق پوزیشن ردتیم در خارج از ایران](#item-XVIII)
+- [نمونه سوالات ردتیم](#item-XIX)
 
 ***
 
@@ -80,30 +81,31 @@ url > zip > js > curl > .dll
 
 <a id="item-V"></a>
 # 5.انواع موقعیت‌های شغلی ردتیم و مهارتهای لازم برای هر سطح از موقعیت‌های شغلی
-<a id="item-V.I"></a>
+<a id="item-VI"></a>
 ### اپراتور ردتیم Red Team operator:
 
 اپراتورهای تیم قرمز مسئول انجام عملیات امنیتی تهاجمی، شبیه سازی حملات به سیستم های یک سازمان برای شناسایی نقاط ضعف و آسیب پذیری هستند. آنها اغلب آزمایش های نفوذ، توسعه بهره برداری و فعالیت های پس از بهره برداری را برای ارزیابی اثربخشی اقدامات دفاعی انجام می دهند.
 </div>
 
 >[!NOTE]
-5.1.1 Junior Red Team operator:
-• Familiarity with cybersecurity concepts.
-• Knowledge of web and network penetration testing.
-• Familiarity with scripting.
-5.1.2 Mid-level Red team operator
-• Proficiency in web and network penetration testing.
-• Expertise in automation and tools customization.
-• Active directory assessment.
-• Post-exploitation techniques.
-5.1.3 Senior Red Team operator
-• Mastery in web and network penetration testing.
-• Advanced skills in tools and exploit development.
-• Knowledge of evasion techniques.
+>**5.1.1 Junior Red Team operator:** \
+• Familiarity with cybersecurity concepts. \
+• Knowledge of web and network penetration testing. \
+• Familiarity with scripting. \
+>**5.1.2 Mid-level Red team operator** \
+• Proficiency in web and network penetration testing. \
+• Expertise in automation and tools customization. \
+• Active directory assessment. \
+• Post-exploitation techniques. \
+>**5.1.3 Senior Red Team operator** \
+• Mastery in web and network penetration testing. \
+• Advanced skills in tools and exploit development. \
+• Knowledge of evasion techniques. \
 • Conducting APT emulation and simulation.
+
 <div dir="rtl" markdown="1">
 
-<a id="item-V.II"></a>
+<a id="item-VII"></a>
 ### مهندس ردتیم Red Team Engineer:
 مهندس ردتیم مسئول توسعه ابزار و ویرایش و شخصی سازی ابزارهای امنیت تهاجمی و همچنین توسعه دهنده اکسپلویت‌ و شخصی سازی اکسپلویت هستند.
 
@@ -128,7 +130,7 @@ url > zip > js > curl > .dll
 
 <div dir="rtl" markdown="1">
 
-<a id="item-V.II"></a>
+<a id="item-VIII"></a>
 ### رد تیم لید Red Team lead :
 
 ردتیم لید بر برنامه ریزی، اجرا و هماهنگی عملیات تیم قرمز نظارت می کنند. آنها مسئول تعیین اهداف استراتژیک، مدیریت منابع و اطمینان از همسویی فعالیت های تیم قرمز با اهداف سازمانی هستند. رهبران تیم قرمز اغلب ترکیبی از تخصص فنی و مهارت های رهبری دارند.
@@ -148,7 +150,7 @@ url > zip > js > curl > .dll
 
 <div dir="rtl" markdown="1">
 
-<a id="item-V.III"></a>
+<a id="item-IX"></a>
 ### مشاور ردتیم Red Team Consultant
 
 مشاور تیم قرمز معمولاً ترکیبی از تخصص در عملیات، تجزیه و تحلیل، مهندسی و رهبری تیم قرمز را به ارمغان می‌آورد تا به سازمان‌ها در مورد ارتقای وضعیت امنیتی خود توصیه کند. در حالی که آنها ممکن است وظایف عملیاتی روزانه مانند اپراتور، مهندس یا تحلیلگر تیم قرمز را انجام ندهند، آنها راهنمایی های استراتژیک ارائه می دهند، ارزیابی ها را انجام می دهند و توصیه هایی را بر اساس تجربه و دانش گسترده خود ارائه می دهند.
@@ -177,19 +179,19 @@ url > zip > js > curl > .dll
 
 <div dir="rtl" markdown="1">
 
-<a id="item-VI"></a>
+<a id="item-X"></a>
 # 6.تفاوت ردتیم داخلی و خارجی
 
 ردتیمر داخلی Internal Red Teamer دامنه کاری: داخل سازمان، چک کردن کنترل امنیتی داخلی، سیاست های امنیتی و فرآیندهای امنیتی، شبیه سازی حملات تهدید داخلی و گروه های APT میزان دسترسی: دانش روی زیرساخت، سیستم های امنیتی و در بعضی موارد خود SIEM اهداف: gap analysis، همکاری با بلوتیم، همکاری در incident response, threat hunting و mitigation
 
 ردتیمر خارجی External Red Teamer دامنه کاری: سازمان و شرکت های وابسته، شبیه سازی حملات APT میزان دسترسی: هیچ دانشی از تجهیزات امنیتی و زیرساختی ندارد و همچنین هیچ ارتباطی با اعضای داخلی ندارد. اهداف: دسترسی اولیه و رسیدن به استخراج اطلاعات قوانین تست: انجام تمام تست ها بدون هیچ گونه عملیات تخریب در دارایی های سازمان، عدم استخراج اطلاعات مشتریان و اطلاعات حساس مثل دیتابیس ها
 
-<a id="item-VII"></a>
+<a id="item-XI"></a>
 # 7.چگونه یک ردتیمر بشوم؟
 
 امروزه تخصص ردتیم یکی از ترندهای امنیت سایبری تبدیل شده است به گونه‌ای که تاثیر آن را در موقعیت‌های شغلی در سرتاسر جهان می‌بینید و شاید علاقه مند شده باشید که واقعا این ردتیم چیست؟ چه بدردی می‌خورد آیا من می‌تونم ردتیمر بشوم چه دانشی نیاز دارد چه مهارت‌هایی نیاز دارد و آیا منابع رایگان وجود دارد تا من بتوانم به صورت خودخوان بخوانم یا حتما باید در کلاس خاصی شرکت کنم؟
 
-<a id="item-VIII"></a>
+<a id="item-XII"></a>
 
 # 8.کلیه مهارت های فیلد ردتیم
 
@@ -211,7 +213,7 @@ url > zip > js > curl > .dll
 14.  توانایی مدیریت و منتور بودن نیروهای تازه‌کار و کمک در پروژه‌های مختلف حل مشکلات
 15.  توانایی ارائه دادن گزارش نوشتن برقراری جلسه و مدیریت جلسات
 
-<a id="item-IX"></a>
+<a id="item-XIII"></a>
 # 9.فریمورک‌های مطرح ردتیم
 
 </div>
@@ -259,7 +261,7 @@ url > zip > js > curl > .dll
 
 <div dir="rtl" markdown="1">
 
-<a id="item-X"></a>
+<a id="item-XIV"></a>
 # 10.بر اساس مایتراتک برای شبیه سازی هر تاکتیک چه مهارت‌هایی لازم است
 
 </div>
@@ -372,7 +374,7 @@ url > zip > js > curl > .dll
 
 <div dir="rtl" markdown="1">
 
-<a id="item-XI"></a>
+<a id="item-XV"></a>
 # 11.شبیه سازهای TTP مایتراتک
 
 دو از ابزارهای متن باز که در شبیه سازی تاکتیک تکنیک و روشها به بسیار کاربردی هستند:
@@ -388,12 +390,12 @@ url > zip > js > curl > .dll
 
 # [c2 Matrix](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit?pli=1#gid=0)
 
-<a id="item-XII"></a>
+<a id="item-XVI"></a>
 # 12.آیا فریمورک مایتراتک پوشش کامل می‌دهد ؟
 
 به صورت کلی مایتراتک یک فریمورک ما بین کامیونیتی امنیت است که بسیاری از شرکتهای امنیتی در طول سال وقتی به تکنیک‌های جدیدی دست پیدا کنند به مایتر گزارش می‌کنند و تیم مایتر پس از بررسی اضافه می‌کند لذا این فرآیند زمان بر است و مایتر در لحظه آپدیت نیست. منابع برای آپدیت گزارش‌های هوش تهدید، مقالات محققین امنیتی، گزارش‌های IR که پس هک سازمان‌ها منتشر می شود، بلاگ‌ها و تویتتر محقیقن امنیتی می تواند منابعی برای افزایش گستره پوشش TTP باشد.
 
-<a id="item-XIII"></a>
+<a id="item-XVII"></a>
 # 13.گام های کلی که برای کار در فیلد ردتیم باید طی شود
 
 # [Mind V1](https://github.com/soheilsec/Red-Team-Roadmap/blob/main/Red%20Team%20Roadmap%20%5Bv1%5D.xmind)
@@ -401,7 +403,7 @@ url > zip > js > curl > .dll
 
 </div>
 
-<a id="item-XIV"></a>
+<a id="item-XVIII"></a>
 # 14.بازار کار ردتیم متوسط حقوق پوزیشن ردتیم در خارج از ایران
 
 با توجه به اینکه تو ایران هیچ آمار دقیقی از حقوق‌ها نیست. صرفا حقوق‌های ردتیم در آمریکا قرار داده شده است.
@@ -433,7 +435,7 @@ url > zip > js > curl > .dll
 > Mid-level: $100,000 - $130,000  
 > Senior: $130,000 - $160,000+
 
-<a id="item-XV"></a>
+<a id="item-XIX"></a>
 # 15.نمونه سوالات ردتیم
 
 [RedTeam Interview](https://github.com/soheilsec/RedTeam-Interview)
