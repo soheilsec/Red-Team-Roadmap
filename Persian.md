@@ -87,7 +87,30 @@ url > zip > js > curl > .dll
 </div>
 
 >[!NOTE]
->**5.2.1 Junior Red Team Engineer**  
+5.1.1 Junior Red Team operator:
+• Familiarity with cybersecurity concepts.
+• Knowledge of web and network penetration testing.
+• Familiarity with scripting.
+5.1.2 Mid-level Red team operator
+• Proficiency in web and network penetration testing.
+• Expertise in automation and tools customization.
+• Active directory assessment.
+• Post-exploitation techniques.
+5.1.3 Senior Red Team operator
+• Mastery in web and network penetration testing.
+• Advanced skills in tools and exploit development.
+• Knowledge of evasion techniques.
+• Conducting APT emulation and simulation.
+<div dir="rtl" markdown="1">
+
+<a id="item-V.II"></a>
+### مهندس ردتیم Red Team Engineer:
+مهندس ردتیم مسئول توسعه ابزار و ویرایش و شخصی سازی ابزارهای امنیت تهاجمی و همچنین توسعه دهنده اکسپلویت‌ و شخصی سازی اکسپلویت هستند.
+
+</div>
+
+>[!NOTE]
+>**5.2.2 Junior Red Team Engineer**  
 • Basic knowledge of network and system internals.  
 • Familiarity with scripting and programming.  
 • Understanding of virtualization, orchestration, and cloud technologies.  
